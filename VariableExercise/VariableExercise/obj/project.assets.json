@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
-      "projectName": "VariablesExercise",
-      "projectPath": "C:\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
+      "projectUniqueName": "C:\\repos\\Variables-Exercise\\VariableExercise\\VariableExercise\\VariableExercise.csproj",
+      "projectName": "VariableExercise",
+      "projectPath": "C:\\repos\\Variables-Exercise\\VariableExercise\\VariableExercise\\VariableExercise.csproj",
       "packagesPath": "C:\\Users\\butte\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\Variables-Exercise\\VariablesExercise\\obj\\",
+      "outputPath": "C:\\repos\\Variables-Exercise\\VariableExercise\\VariableExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\butte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
